@@ -1,0 +1,8 @@
+boto3
+langchain
+langchain_aws
+langchain_community
+langgraph
+ipykernel
+bs4
+pypdf
